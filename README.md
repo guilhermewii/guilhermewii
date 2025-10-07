@@ -18,7 +18,7 @@
 
 I am a young person with a strong curiosity and a great desire to learn about cloud computing. I’m always looking for new knowledge and opportunities to grow in this area, as I believe cloud technology is essential for the future of IT and innovation.
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Guilherme from Brasil<br><br>- 🔭 I’m working as personal project<br>- 📚 I'm currently learning about cloud<br>- ⚡ In my free time I play games</p>
 
 ###
 
