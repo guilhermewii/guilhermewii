@@ -10,36 +10,27 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Eai gente 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-I am a young person with a strong curiosity and a great desire to learn about cloud computing. I’m always looking for new knowledge and opportunities to grow in this area, as I believe cloud technology is essential for the future of IT and innovation.
+Olá! Sou um jovem com grande interesse em trabalhar na área de Cloud Computing. 
+Estou sempre buscando aprender coisas novas e desenvolver minhas habilidades nessa área. 
+Vou utilizar este GitHub para compartilhar e desenvolver meus projetos pessoais relacionados a cloud e tecnologia. 
+Espero que vocês gostem e acompanhem minha evolução!
 
-<p align="left">I'm Guilherme from Brasil<br><br>- 🔭 I’m working as personal project<br>- 📚 I'm currently learning about cloud<br>- ⚡ In my free time I play games</p>
+<p align="left">Eu sou o Guilherme <br><br>- 🔭 Estou aqui para fazer meus projetos pessoais!<br>- 📚 Eu tenho um grande interesse pela área de Cloud<br>- ⚡ E eu gosto de jogar no tempo livre</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas!</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -48,7 +39,7 @@ I am a young person with a strong curiosity and a great desire to learn about cl
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meus Status! :</h3>
 
 ###
 
