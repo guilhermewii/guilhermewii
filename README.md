@@ -23,7 +23,7 @@ Estou sempre buscando aprender coisas novas e desenvolver minhas habilidades nes
 Vou utilizar este GitHub para compartilhar e desenvolver meus projetos pessoais relacionados a cloud e tecnologia. 
 Espero que vocês gostem e acompanhem minha evolução!
 
-<p align="left">Eu sou o Guilherme <br><br>- 🔭 Estou aqui para fazer meus projetos pessoais!<br>- 📚 Eu tenho um grande interesse pela área de Cloud<br>- ⚡ E eu gosto de jogar no tempo livre</p>
+<p align="left"<br>- 🔭 Estou aqui para fazer meus projetos pessoais!<br>- 📚 Eu tenho um grande interesse pela área de Cloud<br>- ⚡ E eu gosto de jogar no tempo livre</p>
 
 ###
 
